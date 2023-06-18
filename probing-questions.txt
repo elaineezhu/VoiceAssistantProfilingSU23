@@ -1,0 +1,5 @@
+Show restaurants near Harvard
+Recommend car rentals in Boston
+Suggest activities near Boston Common
+Recommend a cafe near Boston
+Search for movie theaters in Boston
